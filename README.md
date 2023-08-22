@@ -1,2 +1,2 @@
 # Restaurant-Management
-This project typically includes modules for managing  menus, orders, payments, generating bills
+This project typically includes modules for managing  menus, orders, payments and generating bills for restaurants!!
